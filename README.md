@@ -1,5 +1,13 @@
 # muhajie-football-gaminghttps://youtube.com/shorts/aCmT_qqJPDA?si=F1gGBCtgJykJ-mZO<h2>🎥 My Latest YouTube Short</h2>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HQZ7MGCY23"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-HQZ7MGCY23');
+</script>
 <iframe
 width="100%"
 height="500"
